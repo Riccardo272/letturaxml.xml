@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<countries>
+    <country>
+        <name>Stati Uniti</name>
+        <capital>Washington, D.C.</capital>
+        <population>331,002,651</population>
+        <flag_url>https://example.com/us-flag.jpg</flag_url>
+    </country>
+    <country>
+        <name>Regno Unito</name>
+        <capital>Londra</capital>
+        <population>67,886,011</population>
+        <flag_url>https://example.com/uk-flag.jpg</flag_url>
+    </country>
+    <country>
+        <name>Francia</name>
+        <capital>Parigi</capital>
+        <population>65,273,511</population>
+        <flag_url>https://example.com/france-flag.jpg</flag_url>
+    </country>
+</countries>
