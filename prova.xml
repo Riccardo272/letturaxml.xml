@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<carModels>
-    <models brand="Mercedes">
+<carModels brand="Mercedes">
         <model>Mercedes-Benz C-Class</model>
         <model>Mercedes-Benz E-Class</model>
-        <model>Mercedes-Benz S-Class</model>
-    </models>
+        <model>Mercedes-Benz S-Class</model>    
+</carModels>
     <models brand="Lamborghini">
         <model>Lamborghini Huracán</model>
         <model>Lamborghini Aventador</model>
